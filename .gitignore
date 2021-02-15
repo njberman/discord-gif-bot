@@ -1,0 +1,6 @@
+node_modules
+.env
+debug.log
+src/debug.log
+.prettierrc
+.eslintrc.json
